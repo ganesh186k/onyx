@@ -1,25 +1,36 @@
+# Onyx Data DNA Challenge - December 2023
+
 This is Power Bi Sales Analysis report created using Christmas Sales and Trends dataset provided by Onyx Data DNA - Dataset Challenge! December 2023.
 Christmas Sales and Trends Report
 I worked on the #dataDNA dataset Challenge for Christmas Sales and Trends. The Dataset consists of an .xls file which includes information about a business sales christmas season.
 
 **TASK**
 This is a business analysis to derive insights from sales and trend analysis.
+
 **THE PROCESS**
 Observing consistency in data supplied, and driving out questions for actionable strategies.
 
-**Tools used:**
-Microsoft PowerBI Desktop
+## Technologies Used
+- **Power BI / Tableau** (for interactive dashboards)
+- **Python & Pandas** (for data processing)
+- **Excel** (for preliminary data cleaning)
+- **SQL** (for querying structured data)
 
-Power Query Editor
+## Features
+- **Data Cleaning & Preparation**: Handling missing values, transforming data, and ensuring consistency.
+- **Exploratory Data Analysis (EDA)**: Identifying key trends and patterns in the dataset.
+- **Data Visualization**: Creating impactful dashboards for better decision-making.
+- **Insights & Recommendations**: Providing business solutions based on data-driven findings.
 
-**Techniques:**
-Data importation, Transform, Loading
 
-Data Modelling
+## Data Sources
+The dataset used in this challenge includes:
+- Sales and revenue data
+- Customer demographics
+- Product performance metrics
+- Market trends
 
-Data Analysis
 
-Data Visualization
 
 **DELIVERABLE**
 An interactive Dashboard visualizing business information such as total quantity, cost, orders, and products. A description of most ordered products, customer satisfaction, quantity and costs of goods sold by year and month. etc.
