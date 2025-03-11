@@ -11,7 +11,7 @@ This is a business analysis to derive insights from sales and trend analysis.
 Observing consistency in data supplied, and driving out questions for actionable strategies.
 
 ## Technologies Used
-- **Power BI / Tableau** (for interactive dashboards)
+- **Power BI** (for interactive dashboards)
 - **Python & Pandas** (for data processing)
 - **Excel** (for preliminary data cleaning)
 - **SQL** (for querying structured data)
