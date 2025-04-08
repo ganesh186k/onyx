@@ -34,7 +34,7 @@ The dataset used in this challenge includes:
 
 **DELIVERABLE**
 An interactive Dashboard visualizing business information such as total quantity, cost, orders, and products. A description of most ordered products, customer satisfaction, quantity and costs of goods sold by year and month. etc.
-![Screenshot 2023-12-10 224004](https://github.com/ganesh186k/onyx/assets/150351407/c45ce589-5ad7-47a8-98c2-e1a94e46fb9e)
+![image](https://github.com/user-attachments/assets/3f8f5b14-0d61-4100-a910-db05c9e7e643)
 ![Screenshot 2023-12-10 224043](https://github.com/ganesh186k/onyx/assets/150351407/c02ca281-67ab-4553-abbb-8fb3f616ef67)
 ![Screenshot 2023-12-10 224100](https://github.com/ganesh186k/onyx/assets/150351407/a37f666f-ef33-42df-9021-a5a6a04a4d93)
 ![Screenshot 2023-12-10 224123](https://github.com/ganesh186k/onyx/assets/150351407/91159ec4-01e2-4511-a219-a3c867993d97)
